@@ -1,12 +1,7 @@
-## Hi there 👋
+## Hi there, I'm Kim 👋
 
-Here are some ideas to get you started:
+A little big about me:
 
-- 🔭 I’m currently working on Indigitize Computer
-- 🌱 I’m currently learning about AI literacy
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: LinkedIn  
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working as a learning experience designer at [Contentful](https://contentful.com)
+- 📫 How to reach me: [Kim's LinkedIn profile](https://www.linkedin.com/in/kimschlesinger/)
+
